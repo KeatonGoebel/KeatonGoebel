@@ -1,9 +1,6 @@
-- I’m Keaton Goebel and I am a Data Analyst and Software Developer
+- I’m Keaton Goebel and I am a Software Developer
 - I graduated from Transylvania University with a Bachelor of Arts in Computer Science and a Minor in Mathematics
-<!---
-After Graduation I completed the Advanced Data Anaytics Course offered through Coursera >
-<! I have learned important Python libraries for data Analytics such as numPy and Pandas as well as data visualization platforms like Tableau
---->
+- I am currently working as a Computer Operator for the Kentucky Higher Education Student Loan Corporation
 <!---
 I am also experienced in a variety of general-purpose programming languages such as Python, C/C++, and Java
 ---> 
